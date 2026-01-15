@@ -1,2 +1,3 @@
-Import the inventorymanagement-system.sql file on the phpmyadmin admin panel.
-Download the file and put it in htdocs and it should work.
+Import the inventorymanagement-system.sql file, which is located inside the admin folder, on the phpmyadmin admin panel. \n
+Download the file and put it in htdocs and it should work. \n
+
